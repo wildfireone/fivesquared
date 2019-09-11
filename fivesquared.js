@@ -11,8 +11,8 @@ let bus = i2cBus.open(1, (err)=>{
 	}
 });
 
-const _width = 17
-const _height = 7
+const _width = 5
+const _height = 5
 
 const _address = 0x74
 

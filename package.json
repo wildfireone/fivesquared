@@ -1,8 +1,8 @@
 {
-  "name": "scroll-controller",
+  "name": "five-squared",
   "version": "1.0.0",
-  "description": "a small lib to communicate with a pimonroni scroll hd pi hat.",
-  "main": "scrollerController.js",
+  "description": "a small lib to communicate with a pimonroni 5x5. adapted from https://github.com/whatsim/scrollcontroller",
+  "main": "fivequared.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
