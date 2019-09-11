@@ -1,6 +1,6 @@
 {
   "name": "five-squared",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a small lib to communicate with a pimonroni 5x5. adapted from https://github.com/whatsim/scrollcontroller",
   "main": "fivesquared.js",
   "scripts": {
